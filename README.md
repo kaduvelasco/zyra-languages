@@ -8,14 +8,14 @@
 
 > Classe auxiliar para utilização de vários idiomas com PHP.
 
->- [Começando](#comecando)
->- [Pré-requisitos](#pre-requisitos)
->- [Instalação](#instalacao)
->- [Utilização](#utilizacao)
->- [Colaborando](#colaborando)
->- [Versão](#versao)
->- [Autores](#autores)
->- [Licença](#licença)
+>- [Começando](#-comecando)
+>- [Pré-requisitos](#-pré-requisitos)
+>- [Instalação](#-instalação)
+>- [Utilização](#-utilização)
+>- [Colaborando](#-colaborando)
+>- [Versão](#-versão)
+>- [Autores](#-autores)
+>- [Licença](#-licença)
 
 ## 🚀 Começando
 Esta classe possibilita a utilização de vários idiomas em projetos PHP.
