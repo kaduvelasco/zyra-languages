@@ -2,7 +2,7 @@
 
 <!-- Project Shields -->
 [![OpenSource](https://img.shields.io/badge/OPEN-SOURCE-green?style=for-the-badge)](https://opensource.org/)
-[![GitHub license](https://img.shields.io/github/license/kaduvelasco/zyra-mustache?style=for-the-badge)](https://github.com/kaduvelasco/zyra-languages/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/kaduvelasco/zyra-languages?style=for-the-badge)](https://github.com/kaduvelasco/zyra-languages/blob/main/LICENSE)
 [![PHP7.4](https://img.shields.io/badge/PHP-7.4-blue?style=for-the-badge)](https://www.php.net/)
 [![PSR-12](https://img.shields.io/badge/PSR-12-orange?style=for-the-badge)](https://www.php-fig.org/psr/psr-12/)
 
