@@ -128,7 +128,7 @@ O arquivo [VERSIONS.md][link-versions] possui o histórico de alterações reali
   - [Perfil][link-profile]
   - [Email][link-email]
 
-## 📄 Licença
+## [⬆](#zyra-languages) 📄 Licença 
 
 Esse projeto está sob licença MIT. Veja o arquivo [LICENSE][link-license] para mais detalhes ou acesse [mit-license.org](https://mit-license.org/).
 
