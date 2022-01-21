@@ -123,12 +123,12 @@ Para as versões disponíveis, observe as [tags neste repositório][link-tags].
 
 O arquivo [VERSIONS.md][link-versions] possui o histórico de alterações realizadas no projeto.
 
-## ✒️ Autores
+## ✒ Autores
 - **Kadu Velasco** / Desenvolvedor
   - [Perfil][link-profile]
   - [Email][link-email]
 
-## [⬆](#zyra-languages) 📄 Licença 
+## 📄 Licença 
 
 Esse projeto está sob licença MIT. Veja o arquivo [LICENSE][link-license] para mais detalhes ou acesse [mit-license.org](https://mit-license.org/).
 
