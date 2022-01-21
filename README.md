@@ -8,7 +8,7 @@
 
 > Classe auxiliar para utilização de vários idiomas com PHP.
 
->- [Começando](#-comecando)
+>- [Começando](#-começando)
 >- [Pré-requisitos](#-pré-requisitos)
 >- [Instalação](#-instalação)
 >- [Utilização](#-utilização)
