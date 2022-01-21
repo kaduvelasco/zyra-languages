@@ -1,0 +1,25 @@
+{
+  "name":        "kaduvelasco/zyra-languages",
+  "type":        "library",
+  "description": "Classe PHP para auxiliar a utilização de vários idiomas.",
+  "keywords":    ["php","multi", "idiomas", "languages"],
+  "homepage":    "https://github.com/kaduvelasco/zyra-languages",
+  "license":     "MIT",
+  "authors": [
+    {
+      "name":  "Kadu Velasco",
+      "email": "kadu.velasco@gmail.com",
+      "role":  "Developer"
+    }
+  ],
+  "require": {
+    "php":      ">=7.4",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Zyra\\": "src"
+    }
+  },
+  "minimum-stability": "dev"
+}
