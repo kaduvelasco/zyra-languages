@@ -1,5 +1,6 @@
 {
   "name":        "kaduvelasco/zyra-languages",
+  "version":     "1.0.0",
   "type":        "library",
   "description": "Classe PHP para auxiliar a utilização de vários idiomas.",
   "keywords":    ["php","multi", "idiomas", "languages"],

@@ -109,8 +109,6 @@ echo $lang->format('PROJECT_NAME', 'h1', '', 'border:1px solid red;');
 ```
 **Importante** As propriedades definidas em _html_style_ sobrepões as definidas em _html_class_.
 
-#### 
-
 ## 🤝 Colaborando
 
 Por favor, leia o arquivo [CONDUCT.md][link-conduct] para obter detalhes sobre o nosso código de conduta e o arquivo [CONTRIBUTING.md][link-contributing] para detalhes sobre o processo para nos enviar pedidos de solicitação.
