@@ -37,7 +37,7 @@ class Languages
      */
     private function __clone()
     {
-        die('Clone não é permitido.');
+        die('This class cannot be cloned.');
     }
 
     /**

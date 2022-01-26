@@ -18,14 +18,18 @@
 >- [Licença](#-licença)
 
 ## 🚀 Começando
+
 Esta classe possibilita a utilização de vários idiomas em projetos PHP.
 
 ## 📋 Pré-requisitos
+
 - PHP 7.4 ou superior
 - Extensão json do PHP (ext-json)
 
 ## 🔧 Instalação
+
 Utilizando um arquivo `composer.json`:
+
 ```json
 {
     "require": {
@@ -33,11 +37,15 @@ Utilizando um arquivo `composer.json`:
     }
 }
 ```
+
 Depois, execute o comando de instalação.
+
 ```
 $ composer install
 ```
+
 OU execute o comando abaixo.
+
 ```
 $ composer require kaduvelasco/zyra-languages
 ```
@@ -45,7 +53,9 @@ $ composer require kaduvelasco/zyra-languages
 ## 💻 Utilização
 
 ### Pacote de idioma
+
 Será preciso criar quantos pacotes de idioma forem necessários para a sua aplicação. Um pacote de idioma é um arquivo `.json` com a seguinte estrutura:
+
 ```json
 {
   "STRING_NAME": "String content",
@@ -78,6 +88,7 @@ $lang = new Languages('path/to/language/pack');
 ```
 
 Ou utilizando o método `setLanguagePack`:
+
 ```php
 $lang->setLanguagePack('path/to/language/pack');
 ```
@@ -122,6 +133,7 @@ Para as versões disponíveis, observe as [tags neste repositório][link-tags].
 O arquivo [VERSIONS.md][link-versions] possui o histórico de alterações realizadas no projeto.
 
 ## ✒ Autores
+
 - **Kadu Velasco** / Desenvolvedor
   - [Perfil][link-profile]
   - [Email][link-email]
